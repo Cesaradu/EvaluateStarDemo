@@ -1,5 +1,9 @@
 # EvaluateStarDemo
 
+效果图
+
+![image]
+
 //星星展示
 
 self.showStarView = [[ShowStarView alloc] initWithFrame:CGRectMake(SCREEN_WIDTH/2-[self Suit:35], [self Suit:125], [self Suit:70], [self Suit:20])];
