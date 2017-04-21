@@ -16,7 +16,9 @@ __weak typeof(self) weakSelf = self;
 
 self.starView.valueChangeBlock = ^(CGFloat value) {
     NSLog(@"score = %.1lf", value);
+    
     scoreLabel.text = [NSString stringWithFormat:@"%.1lf", value];
+    
     weakSelf.showStarView.level = value;
  };
  
