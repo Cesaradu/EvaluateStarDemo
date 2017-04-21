@@ -2,7 +2,7 @@
 
 效果图
 
-![image]
+![image]https://github.com/Cesaradu/EvaluateStarDemo/blob/master/star.gif
 
 //星星展示
 
